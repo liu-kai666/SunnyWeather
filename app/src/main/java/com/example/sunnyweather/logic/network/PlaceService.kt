@@ -1,5 +1,6 @@
 package com.example.sunnyweather.logic.network
 
+import android.util.Log
 import com.example.sunnyweather.SunnyWeatherApplication
 import com.example.sunnyweather.logic.model.PlaceResponse
 import retrofit2.Call
